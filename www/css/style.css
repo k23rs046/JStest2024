@@ -21,4 +21,5 @@ html,body {
 #btn::after {
   content: "▶";
   color: red;
+  
 }
